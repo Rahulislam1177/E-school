@@ -1,0 +1,80 @@
+header,.bnner {
+    background-color: #4cb86c5c;
+}
+.navbar-brand {
+    width: 150px;
+    height: 80px;
+    object-fit: contain;
+}
+.navbar-expand-lg .navbar-collapse {
+
+    justify-content: flex-end;
+
+}
+.navbar-expand-lg .navbar-nav {
+
+    padding: 0px 0px 40px 0px;
+}
+.nav-link {
+    font-weight: 600;
+    color: rgb(18, 18, 18);
+}
+.nav-item:hover {
+    background-color: green;
+    border-radius: 35px;
+    padding: 0px 20px;
+    height: 40px;
+    color: white !important;
+
+}
+.nav-item {
+    transition: all 0.5s linear;
+    margin-left: 20px;
+}
+.nav-item:hover .nav-link {
+    color: white;}
+
+    .nav-link :last-child {
+    color: white;
+     } 
+.nav-item:last-child {
+    background-color: green;
+    border-radius: 35px;
+    padding: 0px 20px;
+    height: 40px;
+    color: white;
+
+}
+.active {
+    border-bottom: 2px solid green;
+}
+.single-card img {
+    width: auto;
+    height: 100px;
+    object-fit: cover;
+}
+.hahaha {
+    width: 1000px;
+    height: auto;
+    object-fit: cover;
+}
+.navbar-112 {
+    width: 100px;
+}
+.footer-color {
+    background-color:#adacce;
+}
+.a-ili {
+    text-decoration: none;
+    color:rgb(34, 34, 34);
+    list-style: none;
+}
+.a-ili1{
+    text-decoration: none;
+    color:rgb(34, 34, 34);   
+}
+.a-ili1:hover {
+ color:#14fc90;
+ text-decoration: underline;
+ transition: all 0.3s;
+}
